@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint ./src/css/a.css",
+    "lint": "eslint ./src/a.css",
     "lint:create": "eslint --init",
     "prepare": "husky install"
   },
